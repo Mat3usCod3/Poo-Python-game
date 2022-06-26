@@ -1,4 +1,4 @@
-### Poo utilizando Python - Projeto game - Operações básicas
+### Poo utilizando Python - Projeto game 🎮️ - Operações básicas
 
 O programa funciona da seguinte forma:
 
